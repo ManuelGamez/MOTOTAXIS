@@ -118,7 +118,8 @@ header label{
 }
 
 .home .image img{
-    width:40vw;
+    width:20vw;
+	border-radius: 20px;
     animation: float 3s linear infinite;
 }
 
