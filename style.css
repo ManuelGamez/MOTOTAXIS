@@ -141,7 +141,7 @@ header label{
 
 .home .content h3{
     font-size: 5.5rem;
-    color:#fff;
+    color:#deb1a4 ;
     text-transform: uppercase;
 }
 
@@ -474,7 +474,7 @@ header label{
 
 .footer{
     padding-top: 3rem;
-    background:url(../images/footer-bg.png) no-repeat;
+   background-color:#424ba9;
     background-size: cover;
     background-position: center;
 }
